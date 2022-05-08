@@ -1,0 +1,18 @@
+/* Import font family and setup some global variable for colors */
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,400;1,200&family=Redressed&family=Roboto+Serif:opsz,wght@8..144,300&display=swap');
+
+:root {
+    --font-family-n: 'Nunito', sans-serif;
+    --font-family-re: 'Redressed', cursive;
+    --font-family-ro: 'Roboto Serif', serif;
+
+    --gradient-text: linear-gradient(90deg, rgba(110,126,133,1) 0%, rgba(208,208,208,1) 100%);
+    
+    --color-bg: #1C0F13;
+    --color-footer: #312b30;
+    --color-text: #FFFFFF;
+    --color-subtext: #D0D0D0;
+    --color-progects: #6e7e85;
+
+    --color-buttons: #db2b39;
+}
