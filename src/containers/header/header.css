@@ -1,0 +1,73 @@
+.portfolio__header {
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+    height: 100vh;
+}
+.portfolio__header-content {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    flex-direction: column;
+}
+
+.portfolio__header-content h1 {
+    font-family: var(--font-family-n);
+    font-weight: 800;
+    font-size: 72px;
+    line-height: 80px;
+    letter-spacing: -0.04em;
+    margin-bottom: 1rem;
+}
+
+.portfolio__header-content h2 {
+    font-family: var(--font-family-n);
+    font-weight: 600;
+    font-size: 27px;
+    line-height: 35px;
+}
+
+.portfolio__header-content p {
+    font-family: var(--font-family-ro);
+    font-style: normal;
+    font-weight: normal;
+    font-size: 32px;
+    line-height: 35px;
+    color: var(--color-text);
+}
+
+.portfolio__header-content_github {
+    width: 100%;
+    margin: 2rem 0;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    margin: 5rem 0 0rem 2rem;
+}
+
+.portfolio__header-content_github button {
+    padding: 0.3rem 0.8rem;
+    color: var(--color-text);
+    background: var(--color-buttons);
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 25px;
+    border-radius: 7px;
+    border: 0;
+    outline: none;
+    cursor: pointer;
+    margin-left: 2rem;
+}
+
+.portfolio__header-content_contact {
+    margin: 0.5rem 0 0 2rem;
+}
+
+.portfolio__header-content_contact p {
+    font-family: var(--font-family-ro);
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 30px;
+    color: var(--color-text);
+}
