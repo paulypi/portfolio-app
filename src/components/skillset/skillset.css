@@ -1,0 +1,32 @@
+.portfolio__skillset {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin-top: 3rem;
+}
+
+.portfolio__skillset div {
+    flex: 1;
+    max-width: 150px;
+    min-width: 120px;
+    margin: 2rem;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.portfolio__skillset img {
+    height: 50px;
+}
+
+.portfolio__skillset p {
+    font-family: var(--font-family-ro);
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 30px;
+    color: var(--color-text);
+    margin-left: 1rem;
+}

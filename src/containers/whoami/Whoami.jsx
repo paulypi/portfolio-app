@@ -3,7 +3,9 @@ import './whoami.css';
 
 const Whoami = () => {
   return (
-    <div>Whoami</div>
+    <div>
+      Whoami
+    </div>
   )
 }
 

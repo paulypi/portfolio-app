@@ -71,3 +71,51 @@
     line-height: 30px;
     color: var(--color-text);
 }
+
+/* Media */
+@media screen and (max-width: 1050px) {
+    .portfolio__header-content h1 {
+        font-size: 60px;
+        line-height: 70px;
+    }
+    .portfolio__header-content p {
+        font-size: 25px;
+        line-height: 35px;
+    }
+}
+
+@media screen and (max-width: 650px) {
+    .portfolio__header-content h1 {
+        font-size: 40px;
+        line-height: 60px;
+    }
+    .portfolio__header-content p {
+        font-size: 20px;
+        line-height: 35px;
+    }
+    .portfolio__header-content h2 {
+        font-size: 25px;
+    }
+}
+
+@media screen and (max-width: 550px) {
+    .portfolio__header-content {
+        margin: 2rem;
+    }
+    .portfolio__header-content h1 {
+        font-size: 30px;
+        line-height: 40px;
+    }
+    .portfolio__header-content p {
+        font-size: 18px;
+        line-height: 22px;
+    }
+    .portfolio__header-content h2 {
+        font-size: 20px;
+        margin: 0 0 1rem 2.5rem;
+    }
+    .portfolio__header-content_github {
+        display: block;
+        margin: 5rem 1rem 2rem 0rem;
+    }
+}
