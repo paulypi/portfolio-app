@@ -19,7 +19,6 @@ a {
 .image__bg {
     background-image: url('./assets/anaglyph.jpg');
     background-size: cover;
-    height: 100vh;
     background-attachment: fixed;
     background-position: center;
 }
