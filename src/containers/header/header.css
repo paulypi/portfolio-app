@@ -47,7 +47,6 @@
 
 .portfolio__header-content_github button {
     padding: 0.3rem 0.8rem;
-    color: var(--color-text);
     background: var(--color-buttons);
     font-weight: 500;
     font-size: 18px;

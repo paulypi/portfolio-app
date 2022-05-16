@@ -44,7 +44,6 @@
     line-height: 30px;
     color: var(--color-text);
     margin-bottom: 5rem;
-    cursor: pointer;
 }
 .portfolio__project-container_article-content p:last-child {
     cursor: pointer;

@@ -8,11 +8,11 @@
 
     --gradient-text: linear-gradient(90deg, rgba(110,126,133,1) 0%, rgba(208,208,208,1) 100%);
     
-    --color-bg: #1C0F13;
-    --color-footer: #312b30;
+    --color-footer: #2b282e;
+    --color-bg: #1D1D21;
     --color-text: #FFFFFF;
     --color-subtext: #D0D0D0;
-    --color-progects: #6e7e85;
+    --color-gradient-bg:  background-image: radial-gradient(circle, #2b282e, #27252b, #242228, #202024, #1d1d21);;
 
-    --color-buttons: #db2b39;
+    --color-buttons: #5ef7ab;
 }
