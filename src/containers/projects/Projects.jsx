@@ -11,10 +11,7 @@ const Projects = () => {
       </div>
 
       <div className='portfolio__projects-container'>
-        <div className='portfolio__projects-container_groupA'>
-          <Article imgUrl={articleEx} date='15 may 2022' title='Some short tile of a project' />
-        </div>
-        <div className='portfolio__projects-container_groupB'>
+        <div className='portfolio__projects-container_articles'>
           <Article imgUrl={articleEx} date='15 may 2022' title='Some short tile of a project' />
           <Article imgUrl={articleEx} date='15 may 2022' title='Some short tile of a project' />
           <Article imgUrl={articleEx} date='15 may 2022' title='Some short tile of a project' />
