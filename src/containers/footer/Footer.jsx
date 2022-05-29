@@ -18,9 +18,9 @@ const Footer = () => {
       </div>
       <div className='portfolio__footer-connections'>
           <h1 className='gradient__text'>Connections</h1>
-          <a href="#footer"><img src={gmail} alt="gmail img" /></a>
-          <a href="#footer"><img src={twitter} alt="twitter img" /></a>
-          <a href="#footer"><img src={gitHub} alt="github img" /></a>
+          <a href="mailto:paolo.pierini.p@gmail.com"><img src={gmail} alt="gmail img" /></a>
+          <a href="https://twitter.com/Paulypi1"><img src={twitter} alt="twitter img" /></a>
+          <a href="https://github.com/paulypi"><img src={gitHub} alt="github img" /></a>
         </div>
     </div>
   )
