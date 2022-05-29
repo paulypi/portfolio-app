@@ -21,7 +21,7 @@ const Navbar = () => {
     <div className='portfolio__navbar'>
       <div className='portfolio__navbar-links'>
         <div className='portfolio__navbar-links_logo'>
-          <img src={logo} alt='logo' />
+          <a href="#home"><img src={logo} alt='logo' /></a>
         </div>
         <div className='portfolio__navbar-links_container'>
           <Menu />

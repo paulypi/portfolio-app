@@ -59,8 +59,12 @@
     line-height: 25px;
     font-weight: bold;
     font-family: var(--font-family-ro);
+    transition-duration: 500ms;
 }
-
+.portfolio__footer-links_form button:hover {
+    background: var(--color-buttons-hover);
+    margin-right: 69.7%;
+}
 .portfolio__footer-connections {
     display: flex;
     width: 30%;

@@ -24,6 +24,7 @@
 .portfolio__navbar-links_logo img {
     width: 100px;
     height: 100px;
+    cursor: pointer;
 }
 
 .portfolio__navbar-links_container {
@@ -52,7 +53,7 @@
     text-shadow: 4px 4px 8px var(--color-bg), 0 0 4em var(--color-footer), 0 0 0.2em blue;
 }
 .portfolio__navbar-links_container p:hover {
-    font-size: 25px;
+    font-size: 27px;
 }
 
 .portfolio__navbar-sign button,
