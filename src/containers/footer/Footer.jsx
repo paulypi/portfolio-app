@@ -1,4 +1,5 @@
 import React from 'react';
+
 import { gitHub, gmail, twitter } from './imports'
 import './footer.css';
 
@@ -8,10 +9,10 @@ const Footer = () => {
       <div className='portfolio__footer-links'>
         <div className='portfolio__footer-links_heading'>
           <h1 className='gradient__text'>Contacts</h1>
-          <p>Feel free to use the form below or check my connections</p>
+          <p>Feel free to use the form below or check my other connections</p>
         </div>
         <div className='portfolio__footer-links_form'>
-          <input type="email" placeholder='Emamil address' />
+          <input type="email" placeholder='Your email address' />
           <textarea name="text" cols="40" rows="5" placeholder='Insert your text here'></textarea>
           <button type='button'>Send</button>
         </div>

@@ -1,10 +1,11 @@
 import React from 'react';
+
+import { pythonl, HTMLl, CSSl, JavaScriptl, SQLl, Reactl, PostgreSQL } from './imports';
 import './skillset.css';
-import { pythonl, HTMLl, CSSl, JavaScriptl, SQLl, Reactl } from './imports';
 
 const Skillset = () => {
   return (
-    <div className='portfolio__skillset section__padding' id='skillset'>
+    <div className='portfolio__skillset' id='skillset'>
       <div>
         <img src={pythonl} alt="pythonl" />
         <p>python</p>
@@ -20,6 +21,10 @@ const Skillset = () => {
       <div>
         <img src={JavaScriptl} alt="JavaScriptl" />
         <p>Javascript</p>
+      </div>
+      <div>
+        <img src={PostgreSQL} alt="PostgreSQL" />
+        <p>PostgreSQL</p>
       </div>
       <div>
         <img src={SQLl} alt="SQLl" />

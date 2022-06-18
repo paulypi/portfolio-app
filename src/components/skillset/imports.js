@@ -4,6 +4,7 @@ import CSSl from '../../assets/CSSl.png';
 import JavaScriptl from '../../assets/JavaScriptl.png';
 import SQLl from '../../assets/SQLl.png';
 import Reactl from '../../assets/Reactl.png';
+import PostgreSQL from '../../assets/PostgreSQL.png'
 
 export {
     pythonl,
@@ -12,4 +13,5 @@ export {
     JavaScriptl,
     SQLl,
     Reactl,
+    PostgreSQL,
 }
