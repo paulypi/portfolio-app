@@ -1,7 +1,7 @@
 import React from 'react';
 import './article.css';
 
-const Article = ({ imgUrl, date, title }) => {
+const Article = ({ imgUrl, date, title, link }) => {
   return (
     <div className='portfolio__project-container_article'>
       <div className='portfolio__project-container_article-image'>
@@ -12,7 +12,7 @@ const Article = ({ imgUrl, date, title }) => {
           <p>{ date }</p>
           <h3>{ title }</h3>
         </div>
-        <p>Go to project</p>
+        <p><a href={ link }>Go to project</a></p>
       </div>
     </div>
   )

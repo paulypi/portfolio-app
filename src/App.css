@@ -17,7 +17,7 @@ a {
 
 /* Setup backround of header section div */
 .image__bg {
-    background-image: url('./assets/testBg.jpg');
+    background-image: url('./assets/background.jpg');
     background-size: cover;
     background-attachment: fixed;
     background-position: center;
@@ -29,6 +29,7 @@ a {
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
+
 
 .section__padding {
     padding: 10rem 6rem 5rem 6rem;

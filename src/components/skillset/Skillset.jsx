@@ -32,7 +32,7 @@ const Skillset = () => {
       </div>
       <div>
         <img src={Reactl} alt="Reactl" />
-        <p>React</p>
+        <p>React JS</p>
       </div>
     </div>
   )

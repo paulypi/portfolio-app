@@ -8,6 +8,8 @@ Thanks to:
 * <a href="https://www.youtube.com/c/JavaScriptMastery">JavaScriptMastery</a> for the wonderfull video linked below.
 * <a href="https://www.youtube.com/kepowob">Kevin Powell</a> for the great videos that helped me with some fix and a better understanding of CSS.
 * <a href="https://www.youtube.com/c/AskCloudArchitech">AskCloudArchitech</a> for a clear explaination on how to make wonderfull README.md like this.
+* Backgroung photo by <a href="https://unsplash.com/@beautyoftechnology?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Nikolay Tarashchenko</a> on <a href="https://unsplash.com/s/photos/computer?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
 
 Base design:
 * <a href="https://www.youtube.com/watch?v=LMagNcngvcU&t=10777s">Build and Deploy a Fully Responsive Modern UI/UX Website in React JS</a>
@@ -23,4 +25,6 @@ Base design:
 
 * Header - Replace the background image with one that work also on tablet and smarphone
 * Contact me - Setup the backend part for sending mail with smtp
+* Article - Add a short description paragraph
 
+  
