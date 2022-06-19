@@ -17,10 +17,11 @@ a {
 
 /* Setup backround of header section div */
 .image__bg {
-    background-image: url('./assets/background.jpg');
+    background-image: url('./assets/background.png');
     background-size: cover;
     background-attachment: fixed;
     background-position: center;
+    opacity: 65%;
 }
 
 .gradient__text {

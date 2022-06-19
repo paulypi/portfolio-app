@@ -13,8 +13,8 @@ const Projects = () => {
 
       <div className='portfolio__projects-container'>
         <div className='portfolio__projects-container_articles'>
-          <Article imgUrl={portfolio} date='19 jun 2022' title='This portfolio website' link="https://github.com/paulypi/portfolio-app" />
-          <Article imgUrl={sudokuToPdf} date='08 may 2022' title='SudokuToPdf' link="https://github.com/paulypi/sudokuToPdf" />
+          <Article imgUrl={portfolio} date='19 jun 2022' title='Portfolio website' description="This portfolio website" link="https://github.com/paulypi/portfolio-app" />
+          <Article imgUrl={sudokuToPdf} date='08 may 2022' title='SudokuToPdf' description="Create a sudoku book content pdf with printing size as Letter and puzzles difficulty Easy / Medium / Hard." link="https://github.com/paulypi/sudokuToPdf" />
         </div>
       </div>
 
