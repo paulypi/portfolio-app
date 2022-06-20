@@ -10,7 +10,7 @@ const Whoami = () => {
           <h1>Who am I</h1>
         </div>
         <div className='portfolio__whoami-container_text'>
-          <p>Aviation quality inspector and tutor with 10 years of experience, seeking a carreer change to a position of Data Engineer.</p> 
+          <p>Aviation quality inspector and tutor with 10 years of experience, seeking a carrer change to a position of Data Engineer.</p> 
           <p>Driven self-starter, fast learner and team player, enrolled in "IBM Data Engineering Professional Certificate" on Coursera.</p> 
           <br />
           <p>Check my certificate:</p>
