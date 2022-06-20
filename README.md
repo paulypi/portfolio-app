@@ -23,5 +23,5 @@ Base design:
 
 # Issue to be solved and improvement to be done:
 
-* Contact me - Setup the backend part for sending mail with smtp
+* Contact me - After submission of form no feedback is given to the user
 
