@@ -16,7 +16,6 @@ Base design:
 
 # How to setup the environment
 1. Download and install Node.js from the <a href="https://nodejs.org/">official website</a>.
-2. Install <a href="https://react-icons.github.io/react-icons/">react-icons</a>
 2. Clone this repository on your PC.
 3. Open a new terminal from the main folder
 4. Enter the command: npm start
