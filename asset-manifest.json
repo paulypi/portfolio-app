@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/portfolio-app/static/css/main.1666a6ac.css",
+    "main.js": "/portfolio-app/static/js/main.12d8aef8.js",
+    "static/media/portfolio.png": "/portfolio-app/static/media/portfolio.f9288bf7d96a2bbaa188.png",
+    "static/media/background.png": "/portfolio-app/static/media/background.a1af0baaa93d1873b32e.png",
+    "static/media/sudokuToPdf.png": "/portfolio-app/static/media/sudokuToPdf.1181b838716160e49752.png",
+    "static/media/CSSl.png": "/portfolio-app/static/media/CSSl.47dedebbc104b1d10b34.png",
+    "static/media/PostgreSQL.png": "/portfolio-app/static/media/PostgreSQL.163cc4af447a04f52f62.png",
+    "static/media/articleEx.jpeg": "/portfolio-app/static/media/articleEx.d2a8379d4daf4aab4d5b.jpeg",
+    "static/media/JavaScriptl.png": "/portfolio-app/static/media/JavaScriptl.ca691704283b1badf98c.png",
+    "static/media/Reactl.png": "/portfolio-app/static/media/Reactl.44319306359c7112276d.png",
+    "static/media/Logo.png": "/portfolio-app/static/media/Logo.1fa60abf3e7eb7923aec.png",
+    "static/media/SQLl.png": "/portfolio-app/static/media/SQLl.e742a0a409270dbe6e7e.png",
+    "static/media/twitter.png": "/portfolio-app/static/media/twitter.57573394db94634d7e1f.png",
+    "static/media/gmail.png": "/portfolio-app/static/media/gmail.c057771ca433fd8a05d9.png",
+    "index.html": "/portfolio-app/index.html",
+    "main.1666a6ac.css.map": "/portfolio-app/static/css/main.1666a6ac.css.map",
+    "main.12d8aef8.js.map": "/portfolio-app/static/js/main.12d8aef8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1666a6ac.css",
+    "static/js/main.12d8aef8.js"
+  ]
+}
