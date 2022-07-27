@@ -18,9 +18,9 @@ const Whoami = () => {
           <p>2. <a href="https://coursera.org/share/071b4b4856c65a94c62d6d28dd08c69d" className='gradient__text'>Python for Data Science, AI and Development</a></p>
           <p>3. <a href="https://coursera.org/share/65b32a134cc7e4c49f614837db376c3a" className='gradient__text'>Python Project for Data Engineering</a></p>
           <p>4. <a href="https://coursera.org/share/8b1d0ca251585ddab60edfcae59d4680" className='gradient__text'>Introduction to Relational Databases (RDBMS)</a></p>
-          <p>5. <a href="https://coursera.org/share/7d826f9d0bf56ed5f23267d9c8127959"  className='gradient__text'>Databases and SQL for Data Science with Python</a></p>
+          <p>5. <a href="https://coursera.org/share/7d826f9d0bf56ed5f23267d9c8127959" className='gradient__text'>Databases and SQL for Data Science with Python</a></p>
           <p>6. <a href="https://coursera.org/share/28666ca3a095c8998f46272cc52ec99b" className='gradient__text'>Hands-on Introduction to Linux Commands and Shell Scripting</a></p>
-
+          <p>7. <a href="https://coursera.org/share/b4bcf4c39126db9afaf894071296f186" className='gradient__text'>Relational Database Administration (DBA)</a></p>
         </div>
       </div>
     </div>
